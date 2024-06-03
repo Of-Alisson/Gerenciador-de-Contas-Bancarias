@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\bin\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.exe
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\bin\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.deps.json
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\bin\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\bin\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.dll
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\bin\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.pdb
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.dll
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\refint\Gerenciador-de-Contas-Banc-rias.dll
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.pdb
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\ref\Gerenciador-de-Contas-Banc-rias.dll
