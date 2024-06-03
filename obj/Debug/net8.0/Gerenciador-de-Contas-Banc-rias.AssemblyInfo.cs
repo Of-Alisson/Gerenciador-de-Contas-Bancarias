@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gerenciador-de-Contas-Banc-rias")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d67c3c1bf0f189c09ab8bf0a0e2540fdf21697b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab84e88929554e0ab3a385dd790905b70adaa183")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gerenciador-de-Contas-Banc-rias")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gerenciador-de-Contas-Banc-rias")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
