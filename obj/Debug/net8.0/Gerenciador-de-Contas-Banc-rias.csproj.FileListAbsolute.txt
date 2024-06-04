@@ -12,3 +12,4 @@ C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\o
 C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.pdb
 C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.genruntimeconfig.cache
 C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\ref\Gerenciador-de-Contas-Banc-rias.dll
+C:\Users\User\OneDrive\Documentos\MeusProjetos\Gerenciador-de-Contas-Banc-rias\obj\Debug\net8.0\Gerenciador-de-Contas-Banc-rias.sourcelink.json

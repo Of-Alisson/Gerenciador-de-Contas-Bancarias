@@ -1,14 +1,16 @@
-//using System;
+using System;
 
 public abstract class Conta
 {
     public string Numero { get; set; }
     public decimal Saldo{ get; protected set; }
-    public Cliente Cliente{ get; set; }
+    Cliente Cliente{ get; set; } 
 
-    public Conta(string numero, Cliente cliente)
+     
+     public Conta(string numero, Cliente cliente)
+
     {
-        Numero = numero;
+        Numero = numero; 
         Cliente = cliente;
         Saldo = 0;
     } 
@@ -18,7 +20,7 @@ public abstract class Conta
         if(valor > 0)
         {
             Saldo +=valor;
-            Console.WriteLine($"\nDepósito de {Saldo}Depositado com Sucesso");
+            Console.WriteLine($"\nDepósito de {Saldo} realizado com Sucesso!!!");
         }
         else
         {
@@ -26,7 +28,7 @@ public abstract class Conta
         }
     }
 
-    public void Sacar(decimal valor)
+    public virtual void Sacar(decimal valor)
     {
         if(valor > 0 && valor <=Saldo)
         {
